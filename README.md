@@ -1,7 +1,5 @@
 # Miri Michaelson
-=================
 [Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Contact](#Contact)
-=================
 
 Recent graduate of Maker's Academy - a leading web development bootcamp. I'm looking to begin my career as a Junior Full-Stack Developer.
 
