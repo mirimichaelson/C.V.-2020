@@ -24,9 +24,9 @@ Project	| Summary |	Technologies |	Testing
 ## Experience
 
 ### Freelance Event Production (August 2019 - April 2020)
-Before retraining, I worked as an event production freelancer. I worked on charity and radio events such as [the OnSide Awards](https://www.onsideyouthzones.org/onside-awards/) at the Royal Albert Hall with appearances from guests like Prince Harry & The Script, the [ARIAs](https://www.radioacademy.org/arias/) at the Palladium, sponsored by companies like BBC Sounds & Audible, and the Audio Production Awards among others like a Bvlgari Fashion Week event at the Roundhouse in Camden. 
+Before retraining, I worked as an event production freelancer. I worked on charity and radio events such as [the OnSide Awards](https://www.onsideyouthzones.org/onside-awards/) at the Royal Albert Hall with appearances from guests like Prince Harry & The Script, the [ARIAs](https://www.radioacademy.org/arias/) at the Palladium, sponsored by companies like BBC Sounds & Audible. I also had the pleasure of working on the Audio Production Awards, and events like the Bvlgari Fashion Week launch at the Camden Roundhouse. 
 
-Freelancing often requires you to think on your feet and be quick to pick up new ways of working. I've found this experience immensely helpful in my shift over to programming, particularly in learning new technologies in a short time frame. Working on my final project, spotiVibes, was a prime example of this. We had never worked with React or spent more than a day or two working with API's before. Suddenly our whole project required new technologies to be used, and we had to learn to achieve our goal. 
+Freelancing often requires you to think on your feet and be quick to pick up new ways of working. I've found this experience immensely helpful in my shift over to programming, particularly in learning new technologies in a short time frame. Working on my final project, spotiVibes, was a prime example of this. We had never worked with React or spent more than a day or two working with API's before. Suddenly our whole project required new technologies to be used, and we had to learn quickly and with confidence to achieve our goal. 
 
 ### Heaps + Stacks, Events Assistant (January - August 2019) 
 
@@ -40,7 +40,9 @@ My first job after graduating was with my local climbing wall in London where I 
 ### Maker's Academy (May - August 2020)
 
 Europe's leading web developer bootcamp, 10% acceptance rate
+
 Over the three months we were exposed to many production languages and testing frameworks:
+
 Production languages  |	Testing frameworks
 -------- | --------
 Javascript (React + Node) | Jest, Jasmine & Capybara
@@ -75,8 +77,7 @@ Misc: Plant-growing, life drawing on the tube (happy to explain this one), and g
 
 ## Contact
 
-
 email: miriammichaelson@gmail.com
 
-Find me online: Website | Linkedin | Twitter
+Find me online: [Website](https://mirimichaelson.persona.co/) | [Linkedin](https://www.linkedin.com/in/miri-michaelson-010119149/) 
 
