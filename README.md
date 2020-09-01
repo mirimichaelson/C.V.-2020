@@ -42,7 +42,7 @@ Europe's leading web developer bootcamp, 10% acceptance rate
 Over the three months we were exposed to many production languages and testing frameworks:
 Production languages  |	Testing frameworks
 -------- | --------
-Javascript | Jest, Jasmine & Capybara
+Javascript (React + Node) | Jest, Jasmine & Capybara
 Ruby	| Rspec
 Ruby on Rails	| Rspec
 
