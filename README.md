@@ -18,11 +18,7 @@ I would love to work in an environment that will encourage me to maximise my lea
 Project	| Summary |	Technologies |	Testing
 -------- | --------  | -------- | --------
 
-1. [SpotiVibes](https://github.com/mirimichaelson/spotiVibes) |	Our final project at Maker's. All four of us were passionate about music, and hugely excited at the idea of creating an app which we could use in day to day life.  
-
-SpotiVibes will take in either a word or an image given by a user, determine its sentiment, and connect to the Spotify API to return a song in that same vein of feeling.
-
- | 	React, Node, Express, Sptofiy API, Google Cloud Vision API, Google Cloud Language API |	Jest
+1. [SpotiVibes](https://github.com/mirimichaelson/spotiVibes) |	Our final project at Maker's. All four of us were passionate about music, and hugely excited at the idea of creating an app which we could use in day to day life.  SpotiVibes will take in either a word or an image given by a user, determine its sentiment, and connect to the Spotify API to return a song in that same vein of feeling. | 	React, Node, Express, Sptofiy API, Google Cloud Vision API, Google Cloud Language API |	Jest
 2. [Maker's Bnb](https://github.com/samlandman/Makersbnb) |	With 5 weeks of coding experience, 5 Makers worked to create a clone of Airbnb.	| Ruby, HTML, CSS, Postgresql, ElephantSQL, Sinatra, Selenium-Webdriver, Bcrypt | Rspec, Capybara
 3. [FishBook](https://github.com/stupot1/acebook-ciao-pescao)	| Facebook, but fishified! |	Javascript | Jest
 
@@ -71,9 +67,9 @@ Music: I just started learning to play the hang drum!
 Travel: My next little adventure will be in Portugal.
 Misc: Plant-growing, life drawing on the tube (happy to explain this one), and general Audible nerd 
 
-=================
+
 ## Contact
-=================
+
 
 email: miriammichaelson@gmail.com
 
