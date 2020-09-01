@@ -28,7 +28,8 @@ Before retraining, I worked as an event production freelancer. I worked on chari
 
 Freelancing often requires you to think on your feet and be quick to pick up new ways of working. I've found this experience immensely helpful in my shift over to programming, particularly in learning new technologies in a short time frame. Working on my final project, spotiVibes, was a prime example of this. We had never worked with React or spent more than a day or two working with API's before. Suddenly our whole project required new technologies to be used, and we had to learn to achieve our goal. 
 
-### Heaps + Stacks  (January - August 2019) Events Assistant
+### Heaps + Stacks  (January - August 2019) 
+Events Assistant
 This was my first event job, and where I learnt the basics of event production. I worked largely on idea creation & presentations for pitches. Presentations took the form of intricately styled powerpoint presentations with a heavy focus on design. The time I spent working on these 'decks' improved my eye for design and spatial placement, and has fed into my focus & enjoyment of frontend design. 
 
 ### Vauxwall (August 2018 - June 2019) 
