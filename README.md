@@ -35,7 +35,7 @@ This was my first event job, and where I learnt the basics of event production. 
 
 ### TEDxFolkestone, Communications Volunteer (September 2018 - February 2019)
 
-Since university, one of my favourite companies was TED. I spent so many evenings listening to playlists of TED talks, to the point where I still know about half of the randomised talks that come up (and absolutely love discussing them! There's a wonderful one given by the founder of [Girls Who Code](https://www.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection?language=en) with I would really recommend). I was really grateful to spend some time volunteering with TEDxFolkestone after graduating and helping them to organise their social media strategies on Facebook & Instagram.
+TED is a company that I've been inspired by for years, and still am to this day. I was really excited and grateful to spend some time volunteering with TEDxFolkestone to help them to organise their social media strategies on Facebook & Instagram. 
 
 ### SANE Communications, PR intern (September 2018 - January 2019)
 
