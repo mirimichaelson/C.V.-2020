@@ -2,7 +2,7 @@
  [Linkedin](https://www.linkedin.com/in/miri-michaelson-010119149/) | [Website](https://mirimichaelson.persona.co/) | [Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Contact](#Contact)
 
 
-Recent graduate of Maker's Academy - a leading web development bootcamp. I'm looking to begin my career as a Junior Full-Stack Developer.
+Recent graduate of Maker's Academy - a leading web development bootcamp. I'm looking to begin my career as a Full-Stack Developer.
 
 Like many Makers, I made the decision to change careers and jump (headlong!) into programming. 
 
