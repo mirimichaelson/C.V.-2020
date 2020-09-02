@@ -1,5 +1,5 @@
 # Miri Michaelson
-[Website](https://mirimichaelson.persona.co/) | [Linkedin](https://www.linkedin.com/in/miri-michaelson-010119149/) 
+Find me on [Linkedin](https://www.linkedin.com/in/miri-michaelson-010119149/), or on my [Website](https://mirimichaelson.persona.co/).
 
 [Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Contact](#Contact)
 
