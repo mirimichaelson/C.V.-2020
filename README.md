@@ -25,7 +25,7 @@ Project	| Summary |	Technologies |	Testing
 ## Experience
 
 ### Freelance Event Production (August 2019 - April 2020)
-Before retraining, I worked as an event production freelancer. I worked on charity and radio events such as [the OnSide Awards](https://www.onsideyouthzones.org/onside-awards/) at the Royal Albert Hall with appearances from guests like Prince Harry & The Script, the [ARIAs](https://www.radioacademy.org/arias/) at the Palladium, sponsored by companies like BBC Sounds & Audible. I also had the pleasure of working on the Audio Production Awards, and events like the Bvlgari Fashion Week launch at the Camden Roundhouse. 
+Before retraining, I worked as an event production freelancer. I worked on charity and radio events such as [the OnSide Awards](https://www.onsideyouthzones.org/onside-awards/) at the Royal Albert Hall with appearances from guests like Prince Harry & The Script, and the [ARIAs](https://www.radioacademy.org/arias/) at the Palladium, sponsored by companies like BBC Sounds & Audible. I also had the pleasure of working on the Audio Production Awards, and events like the Bvlgari Fashion Week launch at the Camden Roundhouse. 
 
 Freelancing often requires you to think on your feet and be quick to pick up new ways of working. I've found this experience immensely helpful in my shift over to programming, particularly in learning new technologies in a short time frame. Working on my final project, spotiVibes, was a prime example of this. We had never worked with React or spent more than a day or two working with API's before. Suddenly our whole project required new technologies to be used, and we had to learn quickly and with confidence to achieve our goal. 
 
@@ -59,8 +59,7 @@ Javascript (React + Node) | Jest, Jasmine & Capybara
 Ruby	| Rspec
 Ruby on Rails	| Rspec
 
-There was an emphasis on adopting agile methodologies such as Object Orientated Programming, Test Driven Development and values such as SOLID.
-
+There was an emphasis on adopting an agile working style, and methodologies such as Object Orientated Programming and Test Driven Development.
 
 ### University of York (September 2015 - May 2018)
 English & Related Literature (BA), 2:1
@@ -87,7 +86,7 @@ Misc: Plant-growing, life drawing on the tube (happy to explain this one), and g
 
 ## Contact
 
-email: miriammichaelson@gmail.com
+Email: miriammichaelson@gmail.com
 
 Find me online: [Website](https://mirimichaelson.persona.co/) | [Linkedin](https://www.linkedin.com/in/miri-michaelson-010119149/) 
 
