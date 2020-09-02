@@ -1,7 +1,5 @@
-# Miri Michaelson
-[Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Contact](#Contact)
-
-Find me on [Linkedin](https://www.linkedin.com/in/miri-michaelson-010119149/), or on my [website](https://mirimichaelson.persona.co/).
+# **Miri Michaelson**,  *Full Stack Developer*
+ [Linkedin](https://www.linkedin.com/in/miri-michaelson-010119149/) | [Website](https://mirimichaelson.persona.co/) | [Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Contact](#Contact)
 
 
 Recent graduate of Maker's Academy - a leading web development bootcamp. I'm looking to begin my career as a Junior Full-Stack Developer.
@@ -31,12 +29,21 @@ Before retraining, I worked as an event production freelancer. I worked on chari
 
 Freelancing often requires you to think on your feet and be quick to pick up new ways of working. I've found this experience immensely helpful in my shift over to programming, particularly in learning new technologies in a short time frame. Working on my final project, spotiVibes, was a prime example of this. We had never worked with React or spent more than a day or two working with API's before. Suddenly our whole project required new technologies to be used, and we had to learn quickly and with confidence to achieve our goal. 
 
-### Heaps + Stacks, Events Assistant (January - August 2019) 
+### Heaps + Stacks, Creative Event Production Assistant (January - August 2019) 
 
-This was my first event job, and where I learnt the basics of event production. I worked largely on idea creation & presentations for pitches. Presentations took the form of intricately styled powerpoint presentations with a heavy focus on design. The time I spent working on these 'decks' improved my eye for design and spatial placement, and has fed into my focus & enjoyment of frontend design. 
+This was my first event job, and where I learnt the basics of event production. I worked largely on idea creation & presentations for pitches. Presentations took the form of intricately styled powerpoint presentations with a heavy focus on design. The time I spent working on these 'decks' improved my eye for design and spatial placement, and has fed into my focus & enjoyment of front-end design.
+
+### TEDxFolkestone, Communications Volunteer (September 2018 - February 2019)
+
+Since university, one of my favourite companies was TED. I spent so many evenings listening to playlists of TED talks, to the point where I still know about half of the randomised talks that come up (and absolutely love discussing them! There's a wonderful one given by the founder of [Girls Who Code](https://www.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection?language=en) with I would really recommend). I was really grateful to spend some time volunteering with TEDxFolkestone after graduating and helping them to organise their social media strategies on Facebook & Instagram.
+
+### SANE Communications, PR intern (September 2018 - January 2019)
+
+Sane is a PR company which works with fashion brands, including Weekday & Maison Kitsune. After graduating, I spent some time trying to figure out what I wanted to do. I started out in PR, and my work there (and with SANE) introduced me to the world of events through evenings like the Weekday x NonViolence charity fundraiser.
 
 ### Vauxwall, Team Member (August 2018 - June 2019) 
 My first job after graduating was with my local climbing wall in London where I had the pleasure of working with some amazing people, choking continuously on chalk dust, and teaching new climbers. 
+
 
 ## Education
 
