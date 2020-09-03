@@ -79,13 +79,10 @@ AS Level: Religious Studies (A)
 ⛸️ Ice skating & rollerblading  
 🧗‍ Climbing   
 (all of which involve me spending a lot of time falling)
-
 #### Music: 
 🥁 I just started learning to play the hang drum!
-
 #### Travel: 
 🇵🇹 My next little adventure will be in Portugal.
-
 #### Misc: 
 🌱 Plant-growing  
 🎨 Life drawing on the tube (happy to explain this one)  
