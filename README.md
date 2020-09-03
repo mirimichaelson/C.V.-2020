@@ -6,7 +6,7 @@ Recent graduate of Maker's Academy - a leading web development bootcamp. I'm loo
 
 Like many Makers, I made the decision to change careers and jump (headlong!) into programming. 
 
-I started out doing a Bachelors degree in English & Related Literature. My focus was on Classics and Homer, and I spent a lot of evenings reading about unnecessarily obscure literary theories. My first career was in event production. As a result, I have a really interesting/eclectic interal landscape of London (punctuated with many stressful and last-minute visits to Screwfix, and one particular memory of hauling a Henry the Hoover around Seven Dials at midnight). Some of the events that I'm most proud of were hosted at the Royal Albert Hall, the BFI & the Palladium, plus a fun stint working on an Audible podcast. 
+I started out doing a Bachelors degree in English & Related Literature. My focus was on Classics and Homer, and I spent a lot of evenings reading about unnecessarily obscure literary theories. My first career was in event production. As a result, I have a really interesting/eclectic internal landscape of London (punctuated with many stressful and last-minute visits to Screwfix, and one particular memory of hauling a Henry the Hoover around Seven Dials at midnight). Some of the events that I'm most proud of were hosted at the Royal Albert Hall, the BFI & the Palladium, plus a fun stint working on an Audible podcast. 
 
 I decided to take the leap into programming when I realised how endless the opportunities for creativity are. After seeing the events world, it was a revelation to me that ideas could be brought into existence using no resources other than time, thought and a laptop. 
 
