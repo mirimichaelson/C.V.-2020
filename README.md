@@ -59,7 +59,15 @@ Javascript (React + Node) | Jest, Jasmine & Capybara
 Ruby	| Rspec
 Ruby on Rails	| Rspec
 
-There was an emphasis on adopting an agile working style, and methodologies such as Object Orientated Programming and Test Driven Development.
+I learnt  to apply industry-standard best practices and write *clean code* to *solve problems*
+
+- **Applying industry-standard practices:**
+  - <a title = "Programming paradigm">**OOP**</a>, <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, with testing frameworks: **RSpec**, **Jasmine**, **Jest**
+  - *Learning skills to become programming language agnostic using:* **Ruby**, **Rails**, **Javascript**, **NodeJS**, **Express**, **React**, **HTML5/CSS**
+  - **User Stories**, **Domain Modelling**: **CRC**, **UML**, **Wireframs** diagrams
+  - *Linting*, *code quality*, *test coverage* with **rubocop**, **eslint**, **simplecov**
+  - <a title = "Continuous Integration/Continuous Deployment/Continuous Delivery">**CI/CD**</a> pipeline with **TravisCI**, **CircleCI** and **Heroku**
+  - **Agile** (~2 week) group projects: **Trello**, <a title = "Minimum Viable Product">**MVP**</a>, **pairing** in 2-day **sprints**, **stand-ups**, **mood check-ins** and **retros**
 
 ### University of York (September 2015 - May 2018)
 English & Related Literature (BA), 2:1
