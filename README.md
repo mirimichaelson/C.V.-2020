@@ -75,14 +75,21 @@ AS Level: Religious Studies (A)
 
 ## Interests
 
-Sports: Ice skating, rollerblading & climbing (all of which involve me spending a lot of time falling)
+##### Sports: 
+⛸️ Ice skating & rollerblading  
+🧗‍ Climbing   
+(all of which involve me spending a lot of time falling)
 
-Music: I just started learning to play the hang drum!
+##### Music: 
+🥁 I just started learning to play the hang drum!
 
-Travel: My next little adventure will be in Portugal.
+##### Travel: 
+🇵🇹 My next little adventure will be in Portugal.
 
-Misc: Plant-growing, life drawing on the tube (happy to explain this one), and general Audible nerd 
-
+##### Misc: 
+🌱 Plant-growing  
+🎨 Life drawing on the tube (happy to explain this one)  
+📖 General Audible nerd   
 
 ## Contact
 
