@@ -1,10 +1,9 @@
 # **Miri Michaelson**,  *Full Stack Developer*
  [Linkedin](https://www.linkedin.com/in/miri-michaelson-010119149/) | [Website](https://mirimichaelson.persona.co/) | [Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Contact](#Contact)
 
+I'm a full-stack developer, fluent in Javascript & Ruby. 
 
-Recent graduate of Maker's Academy - a leading web development bootcamp. I'm looking to begin my career as a Full-Stack Developer.
-
-Like many Makers, I made the decision to change careers and jump (headlong!) into programming. 
+Recent graduate of Maker's Academy - a leading web development bootcamp. Early in 2020, I made the decision to change careers and jump (headlong!) into programming, something I love and find so much satisfaction in. 
 
 I started out doing a Bachelors degree in English & Related Literature. My focus was on Classics and Homer, and I spent a lot of evenings reading about unnecessarily obscure literary theories. My first career was in event production. As a result, I have a really interesting/eclectic internal landscape of London (punctuated with many stressful and last-minute visits to Screwfix, and one particular memory of hauling a Henry the Hoover around Seven Dials at midnight). Some of the events that I'm most proud of were hosted at the Royal Albert Hall, the BFI & the Palladium, plus a fun stint working on an Audible podcast. 
 
